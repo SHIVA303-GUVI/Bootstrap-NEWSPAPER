@@ -1,0 +1,41 @@
+.content{
+    text-align: justify;
+}
+.bold-tags{
+    font-size: 20px;
+}
+.date{
+    text-align: right;
+}
+.top-lines{
+    text-align: center;
+    font-size: 15px;
+     border-top: 2px solid black;
+     border-bottom: 2px solid black;
+}
+h1{
+    text-align:center;
+    font-weight:bold;
+    font-size:70px;
+}
+.today-left{
+    border-radius: 2px;
+    background-color:rgb(117, 20, 20);
+    font-size: 35px;
+    color:whitesmoke
+}
+.red-color-text{
+    text-align: center;
+    font-size: 40px;
+    color:red;
+}
+#corner-content{
+    text-align: right;
+}
+#last-content{
+    text-align: right;
+    border-top: 2px solid black;
+}
+#bottom-line{
+    border-top:2px solid black;  
+}
